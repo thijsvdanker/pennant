@@ -1,6 +1,10 @@
 # Release Notes
 
-## [Unreleased](https://github.com/laravel/pennant/compare/v1.8.1...1.x)
+## [Unreleased](https://github.com/laravel/pennant/compare/v1.8.2...1.x)
+
+## [v1.8.2](https://github.com/laravel/pennant/compare/v1.8.1...v1.8.2) - 2024-06-20
+
+* [1.x] Ensure values returns feature name by [@timacdonald](https://github.com/timacdonald) in https://github.com/laravel/pennant/pull/107
 
 ## [v1.8.1](https://github.com/laravel/pennant/compare/v1.8.0...v1.8.1) - 2024-05-29
 
